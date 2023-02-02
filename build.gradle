@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+group 'org.ahnabada'
+version '1.0-SNAPSHOT'
+
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+sourceCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+    mavenCentral()
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+
+    //Util -
+    implementation "com.github.avaj-java:common-util:0.4.2"
+    implementation "com.github.avaj-java:common-man:0.5.4"
+
+    //Util - Test
+//    implementation "junit:junit:4.12"
+    implementation 'org.junit.jupiter:junit-jupiter-api:5.9.2'
+
+
+}
