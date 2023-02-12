@@ -6,7 +6,7 @@ group 'org.ahnabada'
 version '1.0-SNAPSHOT'
 
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
-sourceCompatibility = JavaVersion.VERSION_1_8
+sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     mavenCentral()
@@ -25,3 +25,4 @@ dependencies {
 
 
 }
+targetCompatibility = JavaVersion.VERSION_11
