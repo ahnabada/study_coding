@@ -1,9 +1,9 @@
-package org.example.programmers.Lv2;
+package study.ahnabada.programmers.code.stack_queue.주식가격;
 
 import java.util.Arrays;
 import java.util.Stack;
 
-public class Lv2_stock_price {
+public class Solution_he {
 
 
     public static void main(String[] args) {
