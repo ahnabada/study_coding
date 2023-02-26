@@ -1,8 +1,7 @@
-package org.example.programmers.Lv2;
-
+package study.ahnabada.programmers.code.stack_queue.기능개발;
 import java.util.*;
 
-public class Lv2_function_development {
+public class Solution_he {
 
 
     public static void main(String[] args) {
