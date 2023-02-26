@@ -1,9 +1,9 @@
-package org.example.programmers.Lv2;
+package study.ahnabada.programmers.code.stack_queue.프린터;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Lv2_printer {
+public class Solution_he {
 
 
     public static void main(String[] args) {
