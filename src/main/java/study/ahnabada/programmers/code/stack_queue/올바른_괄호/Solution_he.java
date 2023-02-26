@@ -1,8 +1,8 @@
-package org.example.programmers.Lv2;
+package study.ahnabada.programmers.code.stack_queue.올바른_괄호;
 
 import java.util.*;
 
-public class Lv2_right_bracket {
+public class Solution_he {
 
 
     public static void main(String[] args) {
