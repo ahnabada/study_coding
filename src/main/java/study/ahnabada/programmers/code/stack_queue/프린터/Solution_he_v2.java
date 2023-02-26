@@ -1,10 +1,10 @@
-package org.example.programmers.Lv2;
+package study.ahnabada.programmers.code.stack_queue.프린터;
 
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Lv2_printer_v2 {
+public class Solution_he_v2 {
 
 
     public static void main(String[] args) {
