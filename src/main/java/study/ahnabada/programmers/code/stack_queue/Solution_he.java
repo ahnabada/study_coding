@@ -1,8 +1,8 @@
-package org.example.programmers.Lv1;
+package study.ahnabada.programmers.code.stack_queue.같은_숫자는_싫어;
 
 import java.util.*;
 
-public class Lv1_I_hate_same_number {
+public class Solution_he {
 
 
     public static void main(String[] args) {
